@@ -20,5 +20,5 @@ Many people may try to resell Restart Explorer for profit! They are not the offi
 
 # Copyright
 © Lewit61 Productions - 2025 || *All Rights Reserved.*
-
+**
 Restart Explorer and all assets are the property of Lewit61 Productions.
