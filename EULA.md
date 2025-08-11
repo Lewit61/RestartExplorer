@@ -13,7 +13,7 @@ You are granted a non-exclusive, non-transferable license to use the Software fo
 
 # 2. Restrictions
 
-# You may NOT:
+You may NOT:
 • Modify, reverse engineer, decompile, or disassemble the Software.
 • Distribute, rent, lease, or sell the Software or any part of it.
 • Remove or alter any notices or labels on the Software.
