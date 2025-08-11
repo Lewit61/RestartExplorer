@@ -2,8 +2,8 @@
   
 **Please read this license carefully before using Restart Explorer!**
   
-## IF YOU PAID FOR THIS UTILITY, YOU HAVE BEEN SCAMMED!
-## LEARN MORE: https://github.com/Lewit61/RestartExplorer
+IF YOU PAID FOR THIS UTILITY, YOU HAVE BEEN SCAMMED!
+LEARN MORE: https://github.com/Lewit61/RestartExplorer
   
 By using the Software, you accept the terms below.
   
