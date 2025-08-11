@@ -18,8 +18,8 @@ Permissions: Command Prompt (CMD) enabled.
 ## If you paid for Restart Explorer, you have been scammed!
 Many people may try to resell Restart Explorer for profit! They are not the official download! They are charging money for a free utility!
 
-**© Lewit61 Productions - 2025**
+# Copyright
+© Lewit61 Productions - 2025
+*All Rights Reserved.*
 
-**All Rights Reserved.**
-
-**Restart Explorer and all assets are the property of Lewit61 Productions.**
+Restart Explorer and all assets are the property of Lewit61 Productions.
